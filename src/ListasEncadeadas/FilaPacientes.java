@@ -1,4 +1,4 @@
-package ListasEncadeadas.ex01;
+package ListasEncadeadas;
 
 public class FilaPacientes {
 
